@@ -3,11 +3,11 @@
 - OUWAB ELIDRISSI ELMEHDI
 
 ## L'URL de notre projet :
-- a partir du serveur de Ouwab EL Idrissi :
+- à partir du serveur de Ouwab EL Idrissi :
  ```
  http://webtp.fil.univ-lille1.fr/~ouwabelidriss/projet_s/index.php
 ```
-- a partir du serveur de Sabil :
+- à partir du serveur de Sabil :
 ```
 http://webtp.fil.univ-lille1.fr/~sabil/projet_final/index.php
 ```
